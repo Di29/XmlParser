@@ -1,0 +1,7 @@
+c:\users\уринбасаровд\source\repos\XmlParser\XmlParser\bin\Debug\XmlParser.exe.config
+c:\users\уринбасаровд\source\repos\XmlParser\XmlParser\bin\Debug\XmlParser.exe
+c:\users\уринбасаровд\source\repos\XmlParser\XmlParser\bin\Debug\XmlParser.pdb
+c:\users\уринбасаровд\source\repos\XmlParser\XmlParser\obj\Debug\XmlParser.csprojAssemblyReference.cache
+c:\users\уринбасаровд\source\repos\XmlParser\XmlParser\obj\Debug\XmlParser.csproj.CoreCompileInputs.cache
+c:\users\уринбасаровд\source\repos\XmlParser\XmlParser\obj\Debug\XmlParser.exe
+c:\users\уринбасаровд\source\repos\XmlParser\XmlParser\obj\Debug\XmlParser.pdb

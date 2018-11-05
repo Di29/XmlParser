@@ -1,0 +1,80 @@
+[Перевод] У iPhone нашли аллергию на гелий
+https://habr.com/post/428714/?utm_source=habrahabr&utm_medium=rss&utm_campaign=428714
+
+05.11.2018 13:00:01
+Аспектно-ориентированное программирование, Spring AOP
+https://habr.com/post/428548/?utm_source=habrahabr&utm_medium=rss&utm_campaign=428548
+
+05.11.2018 10:43:08
+Как сделать расширение на PHP7 сложнее, чем «hello, world», и не стать красноглазиком. Часть 2
+https://habr.com/post/428732/?utm_source=habrahabr&utm_medium=rss&utm_campaign=428732
+
+05.11.2018 7:49:34
+[Из песочницы] Микровзаимодействия и микроподсказки в интерфейсе
+https://habr.com/post/428590/?utm_source=habrahabr&utm_medium=rss&utm_campaign=428590
+
+02.11.2018 17:05:14
+Protected методы в JavaScript ES5
+https://habr.com/post/425521/?utm_source=habrahabr&utm_medium=rss&utm_campaign=425521
+
+05.11.2018 0:10:13
+Антон Архипов про эффективную работу с IntelliJ IDEA и TeamCity на jug.msk.ru
+https://habr.com/post/428648/?utm_source=habrahabr&utm_medium=rss&utm_campaign=428648
+
+05.11.2018 3:22:06
+[Перевод] Курс MIT «Безопасность компьютерных систем». Лекция 15: «Медицинское программное обеспечение», часть 3
+https://habr.com/post/428656/?utm_source=habrahabr&utm_medium=rss&utm_campaign=428656
+
+05.11.2018 8:55:11
+Дайджест свежих материалов из мира фронтенда за последнюю неделю №337 (29 октября — 4 ноября 2018)
+https://habr.com/post/428766/?utm_source=habrahabr&utm_medium=rss&utm_campaign=428766
+
+05.11.2018 4:15:41
+[Перевод] Недостающие компьютерные навыки у старшеклассников
+https://habr.com/post/428758/?utm_source=habrahabr&utm_medium=rss&utm_campaign=428758
+
+05.11.2018 0:32:12
+[Из песочницы] «Dumb phones» – альтернатива цифровому детоксу
+https://habr.com/post/428720/?utm_source=habrahabr&utm_medium=rss&utm_campaign=428720
+
+04.11.2018 16:58:00
+[Перевод] Нет, Bitcoin не уничтожит наш климат к 2033 году
+https://habr.com/post/428630/?utm_source=habrahabr&utm_medium=rss&utm_campaign=428630
+
+04.11.2018 15:00:02
+[Из песочницы] App Store Review: 15 попыток первого релиза или «Ты не пройдешь!»
+https://habr.com/post/428728/?utm_source=habrahabr&utm_medium=rss&utm_campaign=428728
+
+04.11.2018 19:13:32
+20th Century Fox и Google разработали технологию, предсказывающую пойдут ли в кинотеатр те, кто просмотрел трейлер
+https://habr.com/post/428722/?utm_source=habrahabr&utm_medium=rss&utm_campaign=428722
+
+04.11.2018 18:23:00
+Теперь стриминговые сервисы в США будут платить музыкантам больше — обсуждаем новый закон
+https://habr.com/post/428724/?utm_source=habrahabr&utm_medium=rss&utm_campaign=428724
+
+04.11.2018 18:54:26
+[Перевод] Использование Retrofit 2.x в качестве REST клиента — Tutorial
+https://habr.com/post/428736/?utm_source=habrahabr&utm_medium=rss&utm_campaign=428736
+
+04.11.2018 20:53:58
+Квантовые сети: перспективы и сложности реализации
+https://habr.com/post/428740/?utm_source=habrahabr&utm_medium=rss&utm_campaign=428740
+
+04.11.2018 21:41:58
+Дайджест интересных материалов для мобильного разработчика #273 (29 октября — 4 ноября)
+https://habr.com/post/428748/?utm_source=habrahabr&utm_medium=rss&utm_campaign=428748
+
+04.11.2018 22:17:51
+[Из песочницы] Как превратить федеральный проект в сайт-визитку? Почти подробная инструкция
+https://habr.com/post/428750/?utm_source=habrahabr&utm_medium=rss&utm_campaign=428750
+
+04.11.2018 23:12:54
+Aрифметика произвольной точности в Erlang
+https://habr.com/post/428111/?utm_source=habrahabr&utm_medium=rss&utm_campaign=428111
+
+04.11.2018 19:46:12
+[recovery mode] jDrum эмулятор ритм студий
+https://habr.com/post/428744/?utm_source=habrahabr&utm_medium=rss&utm_campaign=428744
+
+04.11.2018 21:46:29
